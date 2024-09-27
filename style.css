@@ -1,0 +1,24 @@
+* {
+    color: rgb(0, 0, 0);
+    font-family: 'Comforter', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Satisfy', cursive;
+  }
+  
+  body {
+    background-color: rgb(215, 169, 255);
+    /* background-image: url(https://i.pinimg.com/564x/76/d2/b6/76d2b668b23b8d55c8433e9585a2155e.jpg);
+    background-size: cover;  */
+  }
+  
+  #Update {
+    display: none;
+  }
+  .add{
+    background-color: green;
+  }
+  .add:hover{
+    filter: blur(10.0);
+    background-color: blueviolet;
+    font-size: large;
+  }
